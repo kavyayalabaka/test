@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Application Opened]]>
+    </line>
+    <line>
+      <![CDATA[Application Opened]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="135491" started-at="2020-10-18T08:54:32Z" finished-at="2020-10-18T08:56:47Z">
+    <groups>
+    </groups>
+    <test name="Nopackage" duration-ms="135491" started-at="2020-10-18T08:54:32Z" finished-at="2020-10-18T08:56:47Z">
+      <class name="com.hrms.testscripts.TC_001">
+        <test-method status="PASS" signature="tc01()[pri:0, instance:com.hrms.testscripts.TC_001@27808f31]" name="tc01" duration-ms="85412" started-at="2020-10-18T14:24:32Z" finished-at="2020-10-18T14:25:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+      </class> <!-- com.hrms.testscripts.TC_001 -->
+      <class name="com.hrms.testscripts.TC_002">
+        <test-method status="PASS" signature="tc02()[pri:0, instance:com.hrms.testscripts.TC_002@467aecef]" name="tc02" duration-ms="50052" started-at="2020-10-18T14:25:57Z" finished-at="2020-10-18T14:26:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Application Opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc02 -->
+      </class> <!-- com.hrms.testscripts.TC_002 -->
+    </test> <!-- Nopackage -->
+  </suite> <!-- Suite1 -->
+</testng-results>

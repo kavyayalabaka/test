@@ -1,0 +1,37 @@
+2012-01-01 00:17:32,374 INFO  [Log] Application Opened 
+2012-01-01 00:17:35,473 INFO  [Log] Login completed 
+2012-01-01 00:17:35,473 INFO  [Log] Adding new emp 
+2012-01-01 00:17:35,473 INFO  [Log] delete emp 
+2012-01-01 00:17:36,088 INFO  [Log] Logout completed 
+2012-01-01 00:17:40,123 INFO  [Log] Application closed 
+2020-10-18 12:21:15,693 INFO  [Log] Application Opened 
+2020-10-18 12:21:18,290 INFO  [Log] Login completed 
+2020-10-18 12:21:19,146 INFO  [Log] Logout completed 
+2020-10-18 12:21:23,768 INFO  [Log] Application closed 
+2020-10-18 12:21:32,827 INFO  [Log] Application Opened 
+2020-10-18 12:21:36,084 INFO  [Log] Login completed 
+2020-10-18 12:21:36,084 INFO  [Log] Adding new emp 
+2020-10-18 12:21:36,085 INFO  [Log] delete emp 
+2020-10-18 12:21:36,683 INFO  [Log] Logout completed 
+2020-10-18 12:21:40,324 INFO  [Log] Application closed 
+2020-10-18 12:28:35,906 INFO  [Log] Application Opened 
+2020-10-18 12:29:07,184 INFO  [Log] Application Opened 
+2020-10-18 12:29:09,616 INFO  [Log] Login completed 
+2020-10-18 12:29:10,237 INFO  [Log] Logout completed 
+2020-10-18 12:29:15,032 INFO  [Log] Application closed 
+2020-10-18 12:29:24,048 INFO  [Log] Application Opened 
+2020-10-18 12:29:26,738 INFO  [Log] Login completed 
+2020-10-18 12:29:26,739 INFO  [Log] Adding new emp 
+2020-10-18 12:29:26,740 INFO  [Log] delete emp 
+2020-10-18 12:29:27,094 INFO  [Log] Logout completed 
+2020-10-18 12:29:31,136 INFO  [Log] Application closed 
+2020-10-18 14:25:24,585 INFO  [Log] Application Opened 
+2020-10-18 14:25:35,000 INFO  [Log] Login completed 
+2020-10-18 14:25:36,668 INFO  [Log] Logout completed 
+2020-10-18 14:25:57,551 INFO  [Log] Application closed 
+2020-10-18 14:26:36,097 INFO  [Log] Application Opened 
+2020-10-18 14:26:39,565 INFO  [Log] Login completed 
+2020-10-18 14:26:39,565 INFO  [Log] Adding new emp 
+2020-10-18 14:26:39,565 INFO  [Log] delete emp 
+2020-10-18 14:26:40,293 INFO  [Log] Logout completed 
+2020-10-18 14:26:47,584 INFO  [Log] Application closed 
